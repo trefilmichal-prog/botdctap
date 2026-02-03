@@ -1,0 +1,9 @@
+{
+  "name": "botdctap",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Discord bot using discord.py Components V2",
+  "scripts": {
+    "start": "python src/index.py"
+  }
+}
